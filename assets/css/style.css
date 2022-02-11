@@ -1,3 +1,7 @@
+.container {
+  width: 900px;
+}
+
 .jumbotron {
   padding: 4rem 2rem;
   background-color: #e9ecef;
