@@ -43,10 +43,3 @@
   height: 30px;
   width: 100px;
 }
-
-.jumbotron {
-  background-image: url(../img/jorge/bacalao.jpg);
-  background-size: cover;
-  height: 100%;
-  opacity: 0.8;
-}
